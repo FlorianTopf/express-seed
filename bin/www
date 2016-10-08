@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+'use strict';
+
+//module dependencies
+const server = require('./../dist/app.server.js');
+
+//debugger;
